@@ -22,6 +22,7 @@ If you appreciate our projects and the thousands of hours of development and sil
 | :--- | :--- | :--- | :--- |
 | **LuwengKernel Reborn** | Realme MT6785 (ARM64) | `Reborn (4.14.357)` | [Jump to Kernel](#-luwengkernel-reborn) |
 | **LuwengSense Reborn** | Universal Android 8.0 - 16 | `Reborn (v200)` | [Jump to LuwengSense](#-luwengsense-reborn) |
+| **LuwengArcade** | Universal Android (APK) | `v1.0.0` | [Jump to LuwengArcade](#️-luwengarcade) |
 | **L-Blocker** | Universal Android System | `v1.0.0` | [Jump to L-Blocker](#-l-blocker) |
 | **Historical Archive** | Legacy & Previous Editions | `Archive` | [Jump to Archive](#-legacy--historical-archive) |
 
@@ -78,12 +79,40 @@ The signature custom high-performance Linux kernel engineered for Realme Helio G
 
 ---
 
+### 🕹️ LuwengArcade
+
+All-in-one retro arcade gaming hub featuring 6 standalone casual mini-games in a single lightweight package. 100% offline, zero internet required, zero ads, and local save support.
+
+* **6 Featured Mini-Games:** Adventure of Luweng, Hungry Sisi, Oyen Fishing, Tiger Run, Boy Hunting, & Tiny Angry.
+* **90 Unlockable Characters:** Collect in-game coins across runs and unlock up to 15 unique skins per game.
+* **Pure Offline Architecture:** No telemetry, no background network usage, completely family and child safe.
+
+#### 📥 Download LuwengArcade
+* **[LuwengArcade_v1.0.0.APK](https://github.com/KepalaLuweng/Luweng-Releases/releases/download/LuwengArcade-v1.0.0/LuwengArcade_v1.0.0.APK)** (Android Application Package)
+
+#### Installation
+1. Download the `.apk` file above.
+2. Tap the downloaded file and select **Install**.
+3. If prompted by Android, grant **Install from unknown sources**.
+4. Launch and enjoy 100% offline gaming!
+
+---
+
 ### 🛡️ L-Blocker
 
-Lightweight system-level domain filter and DNS security shield for privacy enhancement and ad-domain reduction.
+Lightweight system-level domain filter and DNS security shield for privacy enhancement, tracking prevention, and ad-domain reduction.
+
+* **System-Wide Protection:** Intercepts ad and telemetry requests at the OS network stack.
+* **Zero Overhead:** Native hosts mechanism with zero battery drain or CPU cycles.
+* **Systemless Design:** Seamlessly mounts over Magisk, KernelSU, ReSukiSU, and APatch.
 
 #### 📥 Download L-Blocker
-* **[L-Blocker.v1.0.0.zip](https://github.com/KepalaLuweng/Luweng-Releases/releases/download/L-Blocker-v1.0.0/L-Blocker.v1.0.0.zip)**
+* **[L-Blocker.v1.0.0.zip](https://github.com/KepalaLuweng/Luweng-Releases/releases/download/L-Blocker-v1.0.0/L-Blocker.v1.0.0.zip)** (Flashable Systemless Module)
+
+#### Installation
+1. Flash `L-Blocker.v1.0.0.zip` via Magisk or KernelSU Manager.
+2. Reboot device.
+3. Configure domain filtering via Web Control Panel.
 
 ---
 
