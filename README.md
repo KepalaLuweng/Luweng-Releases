@@ -23,7 +23,7 @@ If you appreciate our projects and the thousands of hours of development and sil
 | **LuwengKernel Reborn** | Realme MT6785 (ARM64) | `Reborn (4.14.357)` | [Jump to Kernel](#-luwengkernel-reborn) |
 | **LuwengSense Reborn** | Universal Android 8.0 - 16 | `Reborn (v200)` | [Jump to LuwengSense](#-luwengsense-reborn) |
 | **LuwengArcade** | Universal Android (APK) | `v1.0.0` | [Jump to LuwengArcade](#️-luwengarcade) |
-| **L-Blocker** | Universal Android System | `v1.0.0` | [Jump to L-Blocker](#-l-blocker) |
+| **L-Blocker** | Universal Android System | `v2.0.0` | [Jump to L-Blocker](#-l-blocker) |
 | **Historical Archive** | Legacy & Previous Editions | `Archive` | [Jump to Archive](#-legacy--historical-archive) |
 
 ---
@@ -107,10 +107,10 @@ Lightweight system-level domain filter and DNS security shield for privacy enhan
 * **Systemless Design:** Seamlessly mounts over Magisk, KernelSU, ReSukiSU, and APatch.
 
 #### 📥 Download L-Blocker
-* **[L-Blocker.v1.0.0.zip](https://github.com/KepalaLuweng/Luweng-Releases/releases/download/L-Blocker-v1.0.0/L-Blocker.v1.0.0.zip)** (Flashable Systemless Module)
+* **[L-Blocker-v2.0.0.zip](https://github.com/KepalaLuweng/Luweng-Releases/releases/download/L-Blocker-v2.0.0/L-Blocker-v2.0.0.zip)** (Flashable Systemless Module)
 
 #### Installation
-1. Flash `L-Blocker.v1.0.0.zip` via Magisk or KernelSU Manager.
+1. Flash `L-Blocker-v2.0.0.zip` via Magisk or KernelSU Manager.
 2. Reboot device.
 3. Configure domain filtering via Web Control Panel.
 
