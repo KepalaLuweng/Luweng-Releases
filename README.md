@@ -94,8 +94,8 @@ All previous editions are preserved below for historical reference and legacy ha
 | Project | Release Tag | Description | Asset Download |
 | :--- | :--- | :--- | :--- |
 | **LuwengKernel** | `Legacy (EOL)` | Android 11-16 SuSFS KernelSU Suite | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengKernel-Legacy) |
-| **LuwengKernel** | `GamingEdition` | Gaming Edition EOL (A11-A16) | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengKernel-GamingEdition) |
-| **LuwengKernel** | `MerdekaEdition` | Merdeka Independence Edition | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengKernel-MerdekaEdition) |
+| **LuwengKernel** | `GamingEdition` | Gaming Edition EOL (A11-A16) | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengKernel-Gaming) |
+| **LuwengKernel** | `MerdekaEdition` | Merdeka Independence Edition | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengKernel-Merdeka) |
 | **LuwengKernel** | `v4` | Kernel 4.14 v4 KSU & Normal | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengKernel-v4) |
 | **LuwengKernel** | `v3` | Kernel 4.14 v3 KSU & Normal | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengKernel-v3) |
 | **LuwengKernel** | `v2` | Kernel Daily 358 LTO | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengKernel-v2) |
@@ -104,6 +104,7 @@ All previous editions are preserved below for historical reference and legacy ha
 | **LuwengSense** | `Legacy (EOL)` | LuwengSense Legacy Module | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengSense-Legacy) |
 | **LuwengSense** | `ZenithUpdate` | Zenith Edition Update | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengSense-ZenithUpdate) |
 | **LuwengSense** | `Zenith` | Zenith Edition Stable | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengSense-Zenith) |
+| **LuwengSense** | `Legendary21082025` | Legendary Edition Update | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengSense-Legendary21082025) |
 | **LuwengSense** | `Legendary` | Legendary Edition Archive | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengSense-Legendary) |
 | **LuwengSense** | `v1.4.1` | Stable v1.4.1 Module | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengSense-v1.4.1) |
 | **LuwengSense** | `v1.4.0` | Stable v1.4.0 Module | [Download](https://github.com/KepalaLuweng/Luweng-Releases/releases/tag/LuwengSense-v1.4.0) |
